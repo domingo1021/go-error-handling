@@ -1,0 +1,6 @@
+.idea
+
+# ignore bianry files
+**/*
+!**/*.go
+!**/
